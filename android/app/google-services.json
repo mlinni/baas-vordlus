@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "193899665871",
+    "project_id": "baas-vordlus",
+    "storage_bucket": "baas-vordlus.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193899665871:android:4015aabb3794d2fb861aba",
+        "android_client_info": {
+          "package_name": "com.example.baas_vordlus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAANRyeQRlJUQiX4O9FX2l8t__zElCNx0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
